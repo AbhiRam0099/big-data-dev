@@ -10,4 +10,4 @@ I have 2.5 yrs of experience in cognizant technology solutions as a software eng
 Data is the oil in the present days , it has very prominent role . I aspire to become dataengineer in top tire company and make career out of it . As a part of my plan I started learning some tech stack that helps me in future.
 ## Links:
 • [LinkedIn](https://www.linkedin.com/in/abhilash-ramavaram-30a23412b/) </br>
-• [LinkedIn](https://github.com/AbhiRam0099)
+• [GitHub](https://github.com/AbhiRam0099)
